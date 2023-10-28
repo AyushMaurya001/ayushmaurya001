@@ -14,9 +14,6 @@
 <p align="center">
 Welcome to my GitHub profile! I am a passionate web developer and computer science student. I love exploring and learning new technologies.
 </p>
-<p align="center">
-Currently, I am nourishing my Dsa concepts using C++ programming language.
-</p>
 </section>
 
 <!-- Languages and Tools -->
